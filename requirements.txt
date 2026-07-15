@@ -1,1 +1,12 @@
-
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+sentence-transformers
+chromadb
+langchain
+transformers
+torch
+gradio
+scikit-learn
